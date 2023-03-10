@@ -18,6 +18,7 @@
 #navPages {
     display: flex;
     flex-direction: column;
+    margin-bottom: 20px;
 }
 
 .buttons{
@@ -39,4 +40,6 @@
 .buttons:active{
     color:#BBBBBB;
     border-color:#BBBBBB;
+    
 }
+
